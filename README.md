@@ -1,7 +1,6 @@
-# PirnatEco
-Towards Sustainable Deep Learning for Wireless Fingerprinting Localization
+# Towards Sustainable Deep Learning for Wireless Fingerprinting Localization
 
-### [Paper](https://ieeexplore.ieee.org/document/9838464) | dkjfn
+### [Paper](https://ieeexplore.ieee.org/document/9838464) | [Data](https://data.ieeemlc.org/Ds1Detail)
 
 Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb.
 
