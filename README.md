@@ -5,7 +5,7 @@
 [![Explore Siren in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb)<br>
 
 [Anže Pirnat](https://sensorlab.ijs.si/people/apirnat/)\*,
-[Blaž Bertalanič](https://sensorlab.ijs.si/people/bbertalanic/)\*,
+[Blaž Bertalanič](https://sensorlab.ijs.si/people/bbertalanic/)\,
 [Gregor Cerar](https://sensorlab.ijs.si/people/gcerar/),
 [Mihael Mohorčič](https://sensorlab.ijs.si/people/mmohorcic/),
 [Marko Meža](https://www.fe.uni-lj.si/o_fakulteti/imenik_zaposlenih/po_abecedi/199/),
