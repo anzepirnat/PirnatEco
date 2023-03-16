@@ -19,9 +19,11 @@ Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run th
 
 ### Structure of the code
 The code is organized as follows:
-* n 
-* i
-* g
+* import of libraries 
+* loading the dataset
+* processing the data
+* definition of the model
+* we use the model and get results
 
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
 
