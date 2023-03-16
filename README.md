@@ -6,6 +6,9 @@ https://githubtocolab.com/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb
 
 https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb
 
+[![Explore Siren in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb)<br>
+
+
 Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb.
 
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
