@@ -17,10 +17,16 @@ If you want to try out the code or experiment with the model, we have written a 
 
 Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb and is deployable through the colab link above the text.
 
+### Structure of the code
+The code is organized as follows:
+* n 
+* i
+* g
+
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
 
 ## Getting started
-If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. 
+If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path /ju/gi/oh. 
 
 ### Citation
 
