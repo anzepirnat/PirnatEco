@@ -2,11 +2,15 @@
 
 ### [Paper](https://ieeexplore.ieee.org/document/9838464) | [Data](https://data.ieeemlc.org/Ds1Detail)
 
-https://githubtocolab.com/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb
-
-https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb
-
 [![Explore Siren in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb)<br>
+
+[Anže Pirnat](https://sensorlab.ijs.si/people/apirnat/)\*,
+[Blaž Bertalanič](https://sensorlab.ijs.si/people/bbertalanic/)\*,
+[Gregor Cerar](https://sensorlab.ijs.si/people/gcerar/),
+[Mihael Mohorčič](https://sensorlab.ijs.si/people/mmohorcic/),
+[Marko Meža](https://www.fe.uni-lj.si/o_fakulteti/imenik_zaposlenih/po_abecedi/199/),
+[Carolina Fortuna](https://sensorlab.ijs.si/people/cfortuna/)<br>
+Sensorlab, Jozef Stefan Institute
 
 
 Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb.
