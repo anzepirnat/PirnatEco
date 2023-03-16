@@ -12,8 +12,10 @@
 [Carolina Fortuna](https://sensorlab.ijs.si/people/cfortuna/)<br>
 Sensorlab, Jozef Stefan Institute
 
+## Google Colab
+If you want to try out the code or experiment with the model, we have written a [Colab](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/CTW2019_h5_5_0.ipynb). 
 
-Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb.
+Model PirnatEco can be found in the colab or seprately in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb.
 
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
 
