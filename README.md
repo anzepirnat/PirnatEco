@@ -13,14 +13,15 @@
 Sensorlab, Jozef Stefan Institute
 
 ## Google Colab
-If you want to try out the code or experiment with the model, we have written a [Colab](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/WholeCode.ipynb). 
+If you wish to experiment with the model or try out the code, we have written a code in [Colab](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/WholeCode.ipynb). 
 
-Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb and is deployable through the colab link above the text.
+You can find the PirnatEco model in PirnatEco.ipynb. To access the complete code required to run the model, along with the CTW2019 dataset and the model itself, refer to WholeCode.ipynb. You can deploy the whole code using the Colab link located above the text.
 
-There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
+Additionally, we have developed a web application that calculates the complexity of the DL model using the equations presented in the paper.
 
 ## Getting started
-If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path MyDrive/CTW2019_h5/ . Then click on the 'open in colab' button and run the code as you please. If you have any question we are happy to answer them.
+To replicate the experiment, start by downloading the data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the .hdf5 format. After that, save the downloaded data to your Google Drive with the following path: MyDrive/CTW2019_h5/. Once saved, click on the "Open in Colab" button and run the code as desired. If you have any questions, we are happy to provide answers.
+
 
 ### Requirements
 The last cell of WholeCode.ipynb displays the requirements needed for running the code. Additionally, a requirements.txt file is also provided which includes all the dependencies installed by Colab, including those not used in the code.
