@@ -20,7 +20,7 @@ Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run th
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
 
 ## Getting started
-If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path MyDrive/CTW2019_h5/ . Then click on the google colab and run the code as you please. If you have any question we are happy to answer them.
+If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path MyDrive/CTW2019_h5/ . Then click on the 'open in colab' button and run the code as you please. If you have any question we are happy to answer them.
 
 ### Requirements
 The last cell of WholeCode.ipynb displays the requirements needed for running the code. Additionally, a requirements.txt file is also provided which includes all the dependencies installed by Colab, including those not used in the code.
