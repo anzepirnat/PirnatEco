@@ -17,14 +17,6 @@ If you want to try out the code or experiment with the model, we have written a 
 
 Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run the model, link to the dataset CTW2019 and the model is in the WholeCode.ipynb and is deployable through the colab link above the text.
 
-### Structure of the code
-The code is organized as follows:
-* import of libraries 
-* loading the dataset
-* processing the data
-* definition of the model
-* we use the model and get results
-
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
 
 ## Getting started
