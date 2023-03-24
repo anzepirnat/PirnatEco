@@ -20,7 +20,7 @@ Model PirnatEco can be found in PirnatEco.ipynb. The whole code needed to run th
 There is also a code for a webapp that calculates complexity of the DL model with equations used and presented in the paper.
 
 ## Getting started
-If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path /ju/gi/oh. 
+If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path MyDrive/CTW2019_h5/... . 
 
 ### Citation
 
