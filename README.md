@@ -22,10 +22,10 @@ There is also a code for a webapp that calculates complexity of the DL model wit
 ## Getting started
 If you wanna recreate the experiment the first step is to download data from the [original source](https://data.ieeemlc.org/Ds1Detail) in the format .hdf5. After that save it to google drive with path MyDrive/CTW2019_h5/ . 
 
-## Requirements
+### Requirements
 The last cell of WholeCode.ipynb displays the requirements needed for running the code. Additionally, a requirements.txt file is also provided which includes all the dependencies installed by Colab, including those not used in the code.
 
-### Citation
+## Citation
 
 If you find our work useful in your research, please cite: [Towards Sustainable Deep Learning for Wireless Fingerprinting Localization](https://ieeexplore.ieee.org/document/9838464).
 If you are using the support code in WholeCode, citation of [Improving CSI-based Massive MIMO Indoor Positioning using Convolutional Neural Network](https://arxiv.org/abs/2102.03130) would be greatly appreciated.
