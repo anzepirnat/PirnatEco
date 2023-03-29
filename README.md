@@ -14,7 +14,7 @@ Sensorlab, Jozef Stefan Institute
 
 This is the official video presentation of the paper.
 
-[![video](https://img.youtube.com/r6ZTQBOlutM.jpg)](https://www.youtube.com/watch?v=r6ZTQBOlutM)
+[![video](https://img.youtube.com/r6ZTQBOlutM/0.jpg)](https://www.youtube.com/watch?v=r6ZTQBOlutM)
 
 ## Google Colab
 If you wish to experiment with the model or try out the code, we have written a code in [Colab](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/WholeCode.ipynb). 
