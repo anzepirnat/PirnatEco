@@ -16,8 +16,6 @@ This is the official video presentation of the paper.
 
 [![video](https://img.youtube.com/vi/r6ZTQBOlutM/0.jpg)](https://www.youtube.com/watch?v=r6ZTQBOlutM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r6ZTQBOlutM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Google Colab
 If you wish to experiment with the model or try out the code, we have written a code in [Colab](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/WholeCode.ipynb). 
 
