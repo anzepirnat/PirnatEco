@@ -14,8 +14,6 @@ Sensorlab, Jozef Stefan Institute
 
 This is the official video presentation of the paper.
 
-heyyyyyyyyyyyaaaaaaaaa
-
 [![video](https://img.youtube.com/r6ZTQBOlutM.jpg)](https://www.youtube.com/watch?v=r6ZTQBOlutM)
 
 ## Google Colab
