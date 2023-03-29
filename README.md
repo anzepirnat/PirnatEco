@@ -2,7 +2,7 @@
 
 ### [Paper](https://ieeexplore.ieee.org/document/9838464) | [Data](https://data.ieeemlc.org/Ds1Detail)
 
-[![Explore Siren in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/WholeCode.ipynb)<br>
+[![Explore PirnatEco in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anzepirnat/PirnatEco/blob/main/WholeCode.ipynb)<br>
 
 [Anže Pirnat](https://sensorlab.ijs.si/people/apirnat/)\*,
 [Blaž Bertalanič](https://sensorlab.ijs.si/people/bbertalanic/)\,
@@ -14,7 +14,7 @@ Sensorlab, Jozef Stefan Institute
 
 This is the official video presentation of the paper.
 
-[![video](https://img.youtube.com/r6ZTQBOlutM/0.jpg)](https://www.youtube.com/watch?v=r6ZTQBOlutM)
+[![video](https://img.youtube.com/vi/r6ZTQBOlutM/0.jpg)](https://www.youtube.com/watch?v=r6ZTQBOlutM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r6ZTQBOlutM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
